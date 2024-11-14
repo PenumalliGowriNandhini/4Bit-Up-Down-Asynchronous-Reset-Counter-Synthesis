@@ -5,7 +5,6 @@
 Synthesize 4Bit-Up-Down-Asynchronous-Reset-Counter design using Constraints and analyse reports, Timing, area and Power.
 
 ## Tool Required:
-
 Functional Simulation: Incisive Simulator (ncvlog, ncelab, ncsim)
 
 Synthesis: Genus
@@ -65,20 +64,12 @@ used.
 
 #### Synthesis RTL Schematic :
 ![image](https://github.com/user-attachments/assets/a3b11d4f-0fcf-49d8-b416-e6cb1f1920dc)
-
-
 #### Area report:
 ![image](https://github.com/user-attachments/assets/93bbdab2-e03d-4e37-a433-bef43f625253)
-
-
 #### Power Report:
 ![image](https://github.com/user-attachments/assets/4ab4d987-3ed2-47eb-83b0-da3da84ce957)
-
-
 #### Timing Report: 
 ![image](https://github.com/user-attachments/assets/7442b26c-62dc-439b-b6a2-5a88c3364c5b)
-
-
 #### Result: 
 
 The generic netlist has been created, and area, power, and timing reports have been tabulated and generated using Genus.
