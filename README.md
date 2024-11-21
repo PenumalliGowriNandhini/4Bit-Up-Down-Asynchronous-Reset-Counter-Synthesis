@@ -62,7 +62,7 @@ used.
 • The tool used for Synthesis is “Genus”. Hence, type “genus -gui” to open the tool.
 
 • Genus Script file with .tcl file Extension commands are executed one by one to synthesize the netlist.
-Counter Program
+# Counter Program
 ```
 timescale 1ns / 1 ns
 module counter(clk,m,rst,count);
